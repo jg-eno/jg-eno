@@ -1,18 +1,18 @@
 # 👨‍💻 Glen Enosh
 
-- 👋 Hi, I'm @jg-eno  
-- 👀 I'm interested in Deep Learning and AI  
-- 🌱 I'm currently learning Genetic Algorithms, LangChain, and PyTorch  
-- 💞️ I'm looking to collaborate on IntelliSum  
-- 📫 How to reach me: jglenenosh@gmail.com  
-- 😄 Pronouns: He/Him  
+- 👋 Hi, I'm **@jg-eno**  
+- 👀 I'm interested in **Deep Learning and AI**  
+- 🌱 I'm currently learning **Genetic Algorithms, LangChain, and PyTorch**  
+- 💞️ I'm looking to collaborate on **IntelliSum**  
+- 📫 How to reach me: **[jglenenosh@gmail.com](mailto:jglenenosh@gmail.com)**  
+- 😄 Pronouns: **He/Him**  
 - ⚡ Fun fact: Still Thinking !!!
 
 <div align="center">
-  <a>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jg-eno&show_icons=true&theme=merko&include_all_commits=true&count_private=true&"/>
+  <a href="https://github-readme-stats.vercel.app/api?username=jg-eno&show_icons=true&theme=merko&include_all_commits=true&count_private=true">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jg-eno&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   </a>
-  <a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=jg-eno&layout=compact&langs_count=6&theme=merko">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jg-eno&layout=compact&langs_count=6&theme=merko"/>
   </a>
 </div>
@@ -29,16 +29,18 @@
 </div>
 
 ##
-![](https://komarev.com/ghpvcounter.svg?username=jg-eno&color=green)
+
+![](https://komarev.com/ghpvc/?username=jg-eno&color=green)
 
 <div> 
-  <a>
+  <a href="mailto:jglenenosh@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
-  <a>
+  <a href="https://linkedin.com/in/jg-eno" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
 </div>
+
 <div align="center">
   
   ## 📊 My GitHub Contributions
@@ -51,19 +53,16 @@
 
 ---
 
+<details>
   <summary>🔥 Streak Stats</summary>
   <br>
-  
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jg-eno&theme=merko)](https://git.io/streak-stats)
-  
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jg-eno&theme=merko"/>
+  </a>
+</details>
 
 <details>
   <summary>📊 Detailed Stats</summary>
   <br>
-  ![Metrics](https://raw.githubusercontent.com/jg-eno/jg-eno/main/github-metrics.svg)
+  <img src="https://raw.githubusercontent.com/jg-eno/jg-eno/main/github-metrics.svg"/>
 </details>
-<!---
-jg-eno/jg-eno is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
