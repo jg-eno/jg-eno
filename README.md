@@ -2,7 +2,7 @@
 - 👀 I’m interested in Deep Learning and AI
 - 🌱 I’m currently learning Genetic Algorithms, LangChain and PyTorch
 - 💞️ I’m looking to collaborate on IntelliSum
-- 📫 How to reach me : techenosh01@gmail.com
+- 📫 How to reach me : jglenenosh@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Still Thinking !!!
 <!---
