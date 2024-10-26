@@ -6,7 +6,7 @@
 - 💞️ I'm looking to collaborate on **IntelliSum**  
 - 📫 How to reach me: **[jglenenosh@gmail.com](mailto:jglenenosh@gmail.com)**  
 - 😄 Pronouns: **He/Him**  
-- ⚡ Fun fact: Still Thinking !!!
+- ⚡ Fun fact: It's not that AI is gonna replace humans. It's humans with AI are gonna replace humans without AI !!!
 
 <div align="center">
   <a>
