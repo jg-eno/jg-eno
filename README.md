@@ -48,9 +48,6 @@
   ### 📈 Activity Graph
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jg-eno&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-  ### 🏆 GitHub Profile Trophy
-  [![trophy](https://github-profile-trophy.vercel.app/?username=jg-eno&theme=matrix&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
 </div>
 
 ---
