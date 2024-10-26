@@ -58,13 +58,11 @@
 
 ---
 
-<details>
   <summary>🔥 Streak Stats</summary>
   <br>
   
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jg-eno&theme=merko)](https://git.io/streak-stats)
   
-</details>
 
 <details>
   <summary>📊 Detailed Stats</summary>
