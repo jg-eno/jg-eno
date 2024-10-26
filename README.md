@@ -39,7 +39,44 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
 </div>
+<div align="center">
+  
+  ## 📊 My GitHub Contributions
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jg-eno/jg-eno/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jg-eno/jg-eno/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jg-eno/jg-eno/output/github-contribution-grid-snake.svg">
+  </picture>
 
+  ### 🗓 3D Contribution Calendar
+  ![](./profile-3d-contrib/profile-night-rainbow.svg)
+  
+  ### 📈 Activity Graph
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jg-eno&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+  ### 🏆 GitHub Profile Trophy
+  [![trophy](https://github-profile-trophy.vercel.app/?username=jg-eno&theme=matrix&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+<details>
+  <summary>🔥 Streak Stats</summary>
+  <br>
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jg-eno&theme=merko)](https://git.io/streak-stats)
+  
+</details>
+
+<details>
+  <summary>📊 Detailed Stats</summary>
+  <br>
+  
+  ![Metrics](https://metrics.lecoq.io/jg-eno?template=classic&isocalendar=1&languages=1&achievements=1&stars=1&topics=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars=false&stars.limit=4&topics=false&topics.mode=starred&topics.sort=stars&topics.limit=15&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=America%2FSao_Paulo)
+  
+</details>
 <!---
 jg-eno/jg-eno is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
