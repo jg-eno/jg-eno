@@ -54,24 +54,26 @@
 </div>
 
 <div align="center">
-  
-  ## 📊 My GitHub Contributions
 
-  
-  ### 📈 Activity Graph
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jg-eno&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## 📊 My GitHub Contributions
+
+### 📈 Activity Graph  
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jg-eno&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
-<div align = "center">
-## 🔥 Streak Stats
-  <br>
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jg-eno&theme=merko"/>
-  </a>
-</div> 
-  
+
+<div align="center">
+
+### 🔥 Streak Stats  
+<br>  
+<a href="https://git.io/streak-stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jg-eno&theme=merko"/>
+</a>
+
+</div>
+
 <details>
   <summary>📊 Detailed Stats</summary>
   <br>
