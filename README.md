@@ -45,4 +45,3 @@ jg-eno/jg-eno is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
-![Snake animation](https://github.com/jg-eno/jg-eno/blob/output/github-contribution-grid-snake.svg)
