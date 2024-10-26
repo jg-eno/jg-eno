@@ -44,9 +44,6 @@
   
   ## 📊 My GitHub Contributions
 
-
-  ### 🗓 3D Contribution Calendar
-  ![](./profile-3d-contrib/profile-night-rainbow.svg)
   
   ### 📈 Activity Graph
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jg-eno&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
