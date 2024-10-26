@@ -1,4 +1,4 @@
-# 👨‍💻 Juliano Leno
+# 👨‍💻 Glen Enosh
 
 - 👋 Hi, I'm @jg-eno  
 - 👀 I'm interested in Deep Learning and AI  
@@ -20,8 +20,6 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="PyTorch" height="30" width="40" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg">
-  <img align="center" alt="TensorFlow" height="30" width="40" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg">
-  <img align="center" alt="Keras" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg">
   <img align="center" alt="Scikit-learn" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg">
   <img align="center" alt="NumPy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
   <img align="center" alt="Pandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg">
@@ -36,7 +34,7 @@
   <a href="mailto:jglenenosh@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
-  <a href="https://www.linkedin.com/in/juliano-leno" target="_blank">
+  <a href="www.linkedin.com/in/glen-enosh-924414215" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
 </div>
