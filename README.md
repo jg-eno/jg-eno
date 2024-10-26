@@ -11,11 +11,17 @@ jg-eno/jg-eno is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=jg-eno&show_icons=true&theme=merko" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jg-eno&layout=compact&theme=merko" />
-  </a>
-</div>
+<table style="border: none; border-spacing: 0; width: 100%;">
+  <tr style="border: none;">
+    <td style="border: none; padding: 0;">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=jg-eno&show_icons=true&theme=merko" />
+      </a>
+    </td>
+    <td style="border: none; padding: 0;">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jg-eno&layout=compact&theme=merko" />
+      </a>
+    </td>
+  </tr>
+</table>
