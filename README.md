@@ -65,12 +65,12 @@
 
 ---
 <div align = "center">
-### 🔥 Streak Stats
+## 🔥 Streak Stats
   <br>
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=jg-eno&theme=merko"/>
   </a>
-<div> 
+</div> 
   
 <details>
   <summary>📊 Detailed Stats</summary>
