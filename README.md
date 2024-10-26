@@ -11,7 +11,7 @@ jg-eno/jg-eno is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
-<table style="border: none; border-collapse: collapse;">
+<table style="border: none;">
   <tr style="border: none;">
     <td style="border: none; padding: 0;">
       <a href="https://github.com/anuraghazra/github-readme-stats">
