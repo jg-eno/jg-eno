@@ -15,12 +15,12 @@ You can click the Preview link to take a look at your changes.
   <tr style="border: none;">
     <td style="border: none; padding: 0;">
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=jg-eno&show_icons=true&theme=onedark" />
+        <img src="https://github-readme-stats.vercel.app/api?username=jg-eno&show_icons=true&theme=merko" />
       </a>
     </td>
     <td style="border: none; padding: 0;">
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jg-eno&layout=compact&theme=onedark" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jg-eno&layout=compact&theme=merko" />
       </a>
     </td>
   </tr>
