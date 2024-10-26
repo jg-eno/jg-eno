@@ -12,7 +12,7 @@
   <a>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jg-eno&show_icons=true&theme=merko&include_all_commits=true&count_private=true&"/>
   </a>
-  <t></t>
+  <br><br><br>
   <a>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jg-eno&layout=compact&langs_count=6&theme=merko"/>
   </a>
@@ -61,9 +61,7 @@
 <details>
   <summary>📊 Detailed Stats</summary>
   <br>
-  
-  ![Metrics](https://metrics.lecoq.io/jg-eno?template=classic&isocalendar=1&languages=1&achievements=1&stars=1&topics=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars=false&stars.limit=4&topics=false&topics.mode=starred&topics.sort=stars&topics.limit=15&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=America%2FSao_Paulo)
-  
+  ![Metrics](/github-metrics.svg) 
 </details>
 <!---
 jg-eno/jg-eno is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
