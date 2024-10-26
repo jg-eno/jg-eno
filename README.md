@@ -9,10 +9,10 @@
 - ⚡ Fun fact: Still Thinking !!!
 
 <div align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=jg-eno&show_icons=true&theme=merko&include_all_commits=true&count_private=true">
+  <a>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jg-eno&show_icons=true&theme=merko&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=jg-eno&layout=compact&langs_count=6&theme=merko">
+<a>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jg-eno&layout=compact&langs_count=6&theme=merko" alt="Top Languages"/>
 </a>
 </div>
