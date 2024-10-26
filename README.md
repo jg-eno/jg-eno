@@ -60,7 +60,7 @@
 <details>
   <summary>📊 Detailed Stats</summary>
   <br>
-  ![Metrics](/github-metrics.svg) 
+  [![Metrics](/github-metrics.svg)]
 </details>
 <!---
 jg-eno/jg-eno is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
