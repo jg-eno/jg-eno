@@ -44,6 +44,11 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" height="45" width="55"/>
   </a>
 
+<!-- Gmail -->
+  <a href="mailto:jglenenosh@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20221017173631" alt="Gmail" height="45" width="55"/>
+  </a>
+  
   <!-- LeetCode -->
   <a href="https://leetcode.com/JG_Enosh" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="45" width="55"/>
@@ -52,11 +57,6 @@
   <!-- HackerRank -->
   <a href="https://www.hackerrank.com/profile/glenenosh15" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Hackerrank_meaningful_logo.svg" alt="HackerRank" height="45" width="55"/>
-  </a>
-
-  <!-- Gmail -->
-  <a href="mailto:jglenenosh@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20221017173631" alt="Gmail" height="45" width="55"/>
   </a>
 
 </div>
