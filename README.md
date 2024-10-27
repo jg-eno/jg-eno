@@ -18,8 +18,7 @@
 </div>
 
 
-<h3 align = "left">Tech Stack and Tools</h3>
-
+<h2 align = "left">Tech Stack and Tools</h2>
 <div style="display: inline_block"><br>
    <img align="center" alt="LangChain" height="30" width="40" src="https://github.com/jg-eno/jg-eno/blob/main/langchain-seeklogo.svg">
     <img align="center" alt="PyTorch" height="30" width="40" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg">
@@ -41,22 +40,24 @@
 
 ![](https://komarev.com/ghpvc/?username=jg-eno&color=green)
 
+<h2 align="left">Other Profiles : </h2>
 <div> 
-  <a href="mailto:jglenenosh@gmail.com" style="text-decoration: none;">
-    <img align="center" src="https://www.svgrepo.com/svg/303161/gmail-icon-logo" alt="Gmail" height="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/glen-enosh-924414215" style="text-decoration: none;">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" height="40" />
-  </a> 
   <a href="https://leetcode.com/JG_Enosh" target="_blank" style="text-decoration: none;">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="Leetcode" height="40" />
 </a>
   <a href="https://www.hackerrank.com/profile/glenenosh15" target="_blank" style="text-decoration: none;">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Hackerrank_meaningful_logo.svg" alt="HackerRank" height="40" />
 </a>
-  
 </div>
-
+<h2 align="lefft">Connect with me : </h2>
+<div>
+  <a href="mailto:jglenenosh@gmail.com" style="text-decoration: none;">
+    <img align="center" src="https://www.svgrepo.com/svg/303161/gmail-icon-logo" alt="Gmail" height="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/glen-enosh-924414215" style="text-decoration: none;">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" height="40" />
+  </a> 
+</div>
 <div align="center">
 
 ## 📊 My GitHub Contributions
