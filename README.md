@@ -40,7 +40,7 @@
 
 <div> 
   <a href="mailto:jglenenosh@gmail.com" style="text-decoration: none;">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg" alt="Gmail" height="40" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Gmail_Icon.svg" alt="Gmail" height="40" />
   </a>
   <a href="https://www.linkedin.com/in/glen-enosh-924414215" style="text-decoration: none;">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" height="40" />
