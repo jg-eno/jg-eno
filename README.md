@@ -40,16 +40,16 @@
 
 <div> 
   <a href="mailto:jglenenosh@gmail.com" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail" target="_blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg" alt="Gmail" height="40" />
   </a>
   <a href="https://www.linkedin.com/in/glen-enosh-924414215" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin" target="_blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" height="40" />
   </a> 
   <a href="https://leetcode.com/JG_Enosh" target="_blank" style="text-decoration: none;">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="Leetcode" height="40" />
 </a>
   <a href="https://www.hackerrank.com/profile/glenenosh15" target="_blank" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Hackerrank_meaningful_logo.svg" alt="HackerRank" height="40" />
 </a>
   
 </div>
