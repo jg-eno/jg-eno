@@ -46,7 +46,7 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin" target="_blank">
   </a> 
   <a href="https://leetcode.com/JG_Enosh" target="_blank" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/-LeetCode-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="Leetcode" height="40" />
 </a>
   <a href="https://www.hackerrank.com/profile/glenenosh15" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white">
