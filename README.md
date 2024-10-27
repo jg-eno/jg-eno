@@ -36,24 +36,29 @@
    <img alt="VSCode" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 </div>
 
-## 🌐 Other Profiles  
-<div style="display: flex; gap: 15px;">
-  <a href="https://leetcode.com/JG_Enosh" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="Leetcode" height="50" width="60"/>
-  </a>
-  <a href="https://www.hackerrank.com/profile/glenenosh15" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Hackerrank_meaningful_logo.svg" alt="HackerRank" height="50" width="60"/>
-  </a>
-</div>
+## 🌐 Find Me Online  
+<div style="display: flex; align-items: center; gap: 20px;">
 
-## 📫 Connect with Me  
-<div style="display: flex;">
-  <a href="mailto:jglenenosh@gmail.com" style="padding-right: 15px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20221017173631" alt="Gmail" height="40" width="50"/>
-  </a>
+<!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/glen-enosh-924414215">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" height="40" width="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" height="45" width="55"/>
   </a>
+
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/JG_Enosh" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="45" width="55"/>
+  </a>
+
+  <!-- HackerRank -->
+  <a href="https://www.hackerrank.com/profile/glenenosh15" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Hackerrank_meaningful_logo.svg" alt="HackerRank" height="45" width="55"/>
+  </a>
+
+  <!-- Gmail -->
+  <a href="mailto:jglenenosh@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20221017173631" alt="Gmail" height="45" width="55"/>
+  </a>
+
 </div>
 
 <br> <!-- Add some vertical space -->
