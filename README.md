@@ -17,6 +17,9 @@
 </a>
 </div>
 
+##
+## Tech Stack and Tools
+
 <div style="display: inline_block"><br>
    <img align="center" alt="LangChain" height="30" width="40" src="https://github.com/jg-eno/jg-eno/blob/main/langchain-seeklogo.svg">
     <img align="center" alt="PyTorch" height="30" width="40" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg">
@@ -40,7 +43,7 @@
 
 <div> 
   <a href="mailto:jglenenosh@gmail.com" style="text-decoration: none;">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Gmail_Icon.svg" alt="Gmail" height="40" />
+    <img align="center" src="https://commons.wikimedia.org/wiki/File:Gmail_icon_%282020%29.svg" alt="Gmail" height="40" />
   </a>
   <a href="https://www.linkedin.com/in/glen-enosh-924414215" style="text-decoration: none;">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" height="40" />
