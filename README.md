@@ -18,7 +18,7 @@
 </div>
 
 
-## Tech Stack and Tools
+<h3 align = "left">Tech Stack and Tools</h3>
 
 <div style="display: inline_block"><br>
    <img align="center" alt="LangChain" height="30" width="40" src="https://github.com/jg-eno/jg-eno/blob/main/langchain-seeklogo.svg">
