@@ -17,7 +17,7 @@
 </a>
 </div>
 
-##
+
 ## Tech Stack and Tools
 
 <div style="display: inline_block"><br>
@@ -43,7 +43,7 @@
 
 <div> 
   <a href="mailto:jglenenosh@gmail.com" style="text-decoration: none;">
-    <img align="center" src="https://commons.wikimedia.org/wiki/File:Gmail_icon_%282020%29.svg" alt="Gmail" height="40" />
+    <img align="center" src="https://www.svgrepo.com/svg/303161/gmail-icon-logo" alt="Gmail" height="40" />
   </a>
   <a href="https://www.linkedin.com/in/glen-enosh-924414215" style="text-decoration: none;">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" height="40" />
