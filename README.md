@@ -39,23 +39,23 @@
 ## 🌐 Other Profiles  
 <div style="display: flex; gap: 15px;">
   <a href="https://leetcode.com/JG_Enosh" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="Leetcode" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="Leetcode" height="50" width="60"/>
   </a>
   <a href="https://www.hackerrank.com/profile/glenenosh15" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Hackerrank_meaningful_logo.svg" alt="HackerRank" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Hackerrank_meaningful_logo.svg" alt="HackerRank" height="50" width="60"/>
   </a>
 </div>
 
 ## 📫 Connect with Me  
-<div style="display: flex; gap: 15px;">
-  <a href="mailto:jglenenosh@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20221017173631" alt="Gmail" height="40"/>
+<div style="display: flex;">
+  <a href="mailto:jglenenosh@gmail.com" style="padding-right: 15px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20221017173631" alt="Gmail" height="40" width="50"/>
   </a>
   <a href="https://www.linkedin.com/in/glen-enosh-924414215">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" height="40" width="50"/>
   </a>
-  <br>
 </div>
+
 <br> <!-- Add some vertical space -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=jg-eno&color=green" alt="Profile Views"/>
