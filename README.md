@@ -1,8 +1,8 @@
 # 👨‍💻 Glen Enosh
 
 - 👋 Hi, I'm **@jg-eno**  
-- 👀 I'm interested in **Deep Learning and AI**  
-- 🌱 I'm currently learning **Genetic Algorithms, LangChain, and PyTorch**  
+- 👀 I'm interested in **Natural Language Processing and Deep Learning**  
+- 🌱 I'm currently learning **Agentic Workflows and Multi_Agent Orchestration**  
 - 💞️ I'm looking to collaborate on **IntelliSum**  
 - 📫 How to reach me: **[jglenenosh@gmail.com](mailto:jglenenosh@gmail.com)**  
 - 😄 Pronouns: **He/Him**  
