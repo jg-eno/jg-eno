@@ -1,6 +1,7 @@
 # 👨‍💻 Glen Enosh
-<img src="https://github.com/jg-eno/jg-eno/blob/main/about_me.svg">
-
+<p align="center">
+  <img src="https://github.com/jg-eno/jg-eno/blob/main/about_me.svg" style="max-width: 900px; width: 100%;"/>
+</p>
 <div align="center">
   <a href="#">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jg-eno&show_icons=true&theme=merko&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
