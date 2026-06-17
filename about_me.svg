@@ -20,7 +20,7 @@
 
   <!-- Prompt line -->
   <text x="24" y="72" font-family="'Courier New', monospace" font-size="13">
-    <tspan fill="#3fb950" font-weight="bold">glen enosh</tspan>f
+    <tspan fill="#3fb950" font-weight="bold">jg-eno</tspan>f
     <tspan fill="#6e7681"> ~ </tspan>
     <tspan fill="#3fb950">$ </tspan>
     <tspan fill="#cdd9e5">whoami --verbose</tspan>
@@ -89,18 +89,15 @@
     <tspan fill="#2ea043">:</tspan>
     <tspan fill="#6e7681">  </tspan>
     <tspan fill="#adbac7">He / Him  · </tspan>
-    <tspan fill="#6e7681" font-style="italic">Humans with AI &gt; Humans without AI</tspan>
   </text>
 
   <!-- Bottom prompt -->
-  <text x="24" y="250" font-family="'Courier New', monospace" font-size="13">
-    <tspan fill="#3fb950" font-weight="bold">glen</tspan>
-    <tspan fill="#57ab5a">@</tspan>
-    <tspan fill="#57ab5a" font-weight="bold">wsai-lab</tspan>
-    <tspan fill="#6e7681"> ~ </tspan>
-    <tspan fill="#3fb950">$ </tspan>
-    <rect x="0" y="0" width="8" height="14" fill="#3fb950"/>
-  </text>
-  <!-- Cursor block -->
-  <rect x="164" y="238" width="8" height="14" fill="#3fb950" />
+<text x="24" y="250" font-family="'Courier New', monospace" font-size="13">
+  <tspan fill="#3fb950" font-weight="bold">jg-eno</tspan>
+  <tspan fill="#6e7681"> ~ </tspan>
+  <tspan fill="#3fb950">$ </tspan>
+</text>
+
+<!-- Cursor block -->
+<rect x="110" y="238" width="8" height="14" fill="#3fb950" />
 </svg>
