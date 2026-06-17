@@ -27,7 +27,7 @@
   </text>
 
   <!-- Output block bg -->
-  <rect x="24" y="84" width="672" height="144" rx="0" fill="#111a11" />
+  <rect x="24" y="84" width="700" height="144" rx="0" fill="#111a11" />
   <rect x="24" y="84" width="2" height="144" fill="#2ea043" />
 
   <!-- handle -->
