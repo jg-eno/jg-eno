@@ -46,7 +46,7 @@
 
 <!-- Gmail -->
   <a href="mailto:jglenenosh@gmail.com">
-    <img src="https://commons.wikimedia.org/wiki/File:Gmail_icon_(2026).svg?utm_source=chatgpt.com" alt="Gmail" height="45" width="55"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Gmail_icon_%282026%29.svg" alt="Gmail" height="45" width="55"/>
   </a>
   
   <!-- LeetCode -->
