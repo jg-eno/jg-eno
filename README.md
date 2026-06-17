@@ -1,12 +1,5 @@
 # 👨‍💻 Glen Enosh
-
-- 👋 Hi, I'm **@jg-eno**  
-- 👀 I'm interested in **Natural Language Processing and Deep Learning**  
-- 🌱 I'm currently learning **Agentic Workflows and Multi_Agent Orchestration**  
-- 💞️ I'm looking to collaborate on **IntelliSum**  
-- 📫 How to reach me: **[jglenenosh@gmail.com](mailto:jglenenosh@gmail.com)**  
-- 😄 Pronouns: **He/Him**  
-- ⚡ Fun fact: *It's not that AI will replace humans. It's humans with AI that will replace humans without AI!!!*
+<img src="https://github.com/jg-eno/jg-eno/blob/main/about_me.svg">
 
 <div align="center">
   <a href="#">
